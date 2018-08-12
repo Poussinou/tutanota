@@ -11,10 +11,12 @@ Tutanota is the [secure email](https://tutanota.com) service with built-in end-t
 
 * Issue and feature tracker: https://github.com/tutao/tutanota/issues (legacy tracker: https://tutanota.uservoice.com/forums/237921-general)
 
-<a href="https://play.google.com/store/apps/details?id=de.tutao.tutanota">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="75" align="center">
-</a>
-
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
+     height="75">](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
+[<img src="https://f-droid.org/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="75">](https://f-droid.org/packages/de.tutao.tutanota/)
 
 ## Building and running your own Tutanota (new beta) web client
 
